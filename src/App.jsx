@@ -6,14 +6,14 @@ import './App.css';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA_L9HMA_-ph8mAvnyAt_CY7u3-fGBvoBA",
-  authDomain: "zido-points-kyorugi.firebaseapp.com",
-  databaseURL: "https://zido-points-kyorugi-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  projectId: "zido-points-kyorugi",
-  storageBucket: "zido-points-kyorugi.firebasestorage.app",
-  messagingSenderId: "360106858400",
-  appId: "1:360106858400:web:15c9611465b0bd7c2ab6c5",
-  measurementId: "G-P2YW17K76F"
+  apiKey: "AIzaSyAGDouQto7NY-ghGuopdDuT2rohG1CuLEk",
+  authDomain: "taekwondo-kyorugi-scoring.firebaseapp.com",
+  databaseURL: "https://taekwondo-kyorugi-scoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "taekwondo-kyorugi-scoring",
+  storageBucket: "taekwondo-kyorugi-scoring.firebasestorage.app",
+  messagingSenderId: "404562865335",
+  appId: "1:404562865335:web:35dffea9368721a31f3132",
+  measurementId: "G-4HK6NHES47"
 };
 
 // Initialize Firebase
